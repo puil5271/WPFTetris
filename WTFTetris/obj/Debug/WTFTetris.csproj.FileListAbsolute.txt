@@ -1,0 +1,14 @@
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\bin\Debug\WTFTetris.exe.config
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\bin\Debug\WTFTetris.exe
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\bin\Debug\WTFTetris.pdb
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris.csprojResolveAssemblyReference.cache
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\MainWindow.g.cs
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\App.g.cs
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris_MarkupCompile.cache
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris_MarkupCompile.lref
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\MainWindow.baml
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris.g.resources
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris.Properties.Resources.resources
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris.csproj.GenerateResource.Cache
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris.exe
+c:\users\lee\documents\visual studio 2017\Projects\WTFTetris\obj\Debug\WTFTetris.pdb
